@@ -293,7 +293,7 @@ span {
  .about-content .info-list li span {
      display: block;
      font-family: "poppins-regular", sans-serif;
-     color: #888888;
+     color: darkgray;
      font-size: 1.5rem;
      line-height: 1;
  }
@@ -1223,7 +1223,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 }
 .skill-bars li {
 	height: .6rem;
-	background: #a1a1a1;
+	background: #313131;
 	width: 100%;
 	margin-bottom: 6rem;
 	padding: 0;
@@ -1241,7 +1241,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 	line-height: 2.4rem;
 }
 .skill-bars li .progress {
-	background: #313131;
+	background: #a1a1a1;
 	position: relative;
 	height: 100%;
 }
